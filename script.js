@@ -12,7 +12,6 @@ function draw() {
   circle(x, 199, 10);
 
 
-
   x = x + v
 if(x > 500)
  v=-5 
